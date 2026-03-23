@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst
 
-I am a results-driven **Data Analyst** and Computer Science undergraduate with a passion for transforming complex datasets into actionable business insights.Currently, I serve as the **Vice Head of Data Analysis** at the IEEE Beni Suef Student Branch, where I lead technical teams to solve real-world data challenges.
+I am a results-driven **Data Analyst**.Currently, I serve as the **Vice Head of Data Analysis** at the IEEE Beni Suef Student Branch, where I lead technical teams to solve real-world data challenges.
 
 ---
 
