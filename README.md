@@ -1,72 +1,69 @@
-# Mohamed Dahi
-### Data Analyst → Aspiring Data Engineer
+# Hi there, I'm Mohammed Dahi 👋
+
+### 📊 Data Analyst
+
+I am a results-driven **Data Analyst**.Currently, I serve as the **Vice Head of Data Analysis** at the IEEE Beni Suef Student Branch, where I lead technical teams to solve real-world data challenges.
 
 ---
 
-## Bio
+### 🚀 Quick Overview
+*🎓 **Education:** B.Sc. in Computer Science (Expected 2028).
 
-I am a Data Analyst transitioning into Data Engineering, with a focus on building reliable, scalable, and efficient data systems. My work centers around transforming raw data into structured, production-ready pipelines while maintaining performance and integrity.
+*💼 **Experience:** Data Analysis Intern at Codveda Technologies.
 
-I am particularly interested in backend data infrastructure, ETL pipeline design, and optimizing data workflows in Linux-based environments.
+*💡 **Specialization:** End-to-end analytical workflows, from data cleaning to interactive dashboarding.
 
----
-
-## Experience & Achievements
-
-- McKinsey Forward Program – 2026 Participant  
-- IEEE SSCS Ambassador  
-- Vice Head of Data Analysis – IEEE BSU  
+*🏅 **Honors:** Selected for the **McKinsey Forward Program** for advanced problem-solving.
 
 ---
 
-## Tech Stack
+### 🛠️ Technical Toolbox
 
-### Languages
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql)
-
-### Databases
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-000?style=flat&logo=microsoftsqlserver)
-
-### Platforms
-![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-000?style=flat&logo=linux)
-
-### Tools
-![Bash](https://img.shields.io/badge/Bash%20Scripting-000?style=flat&logo=gnu-bash)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, DAX, C++  |
+| **Data Visualization** | Power BI, Microsoft Excel (Advanced) |
+| **Analysis** | EDA, Statistical Modeling, Predictive Analytics, Data Cleaning  |
+| **Platforms** | Jupyter Notebook, Power Query, MS SQL Server |
 
 ---
 
-## Engineering Focus
+### 📈 Featured Projects
 
-- Data pipeline design (ETL/ELT)
-- Query optimization and stored procedures
-- Data integrity and validation
-- Backend data processing systems
-- Linux-based automation and scripting
+#### 💎 [Ferns and Petals Sales Analysis](YOUR_LINK_HERE)
+Developed an interactive **Power BI dashboard** to analyze customer behavior and geographical sales trends. 
+* Identified delivery optimization opportunities and peak order periods (Diwali sales).
+* Used **DAX and Power Query** to drive revenue improvement strategies.
 
----
 
-## GitHub Stats
+#### 📞 [Sales Agent Performance Analysis](YOUR_LINK_HERE)
+Built an **Excel-based dashboard** tracking KPIs like conversion rates and call drop rates for a sales team.
+* Analyzed productivity trends to identify top performers and operational gaps.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Dahi&show_icons=true&hide_border=true&theme=default)
 
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Dahi&layout=compact&hide_border=true&theme=default)
-
----
-
-## Contact
-
-- Email: Mohameddahi657@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/mohammeddahi/
+#### 🛒 [Walmart Sales Dashboard](YOUR_LINK_HERE)
+A comprehensive **Power BI** project visualizing revenue against targets and weekly sales patterns.
+* Focused on data storytelling to help leadership optimize sales strategies.
 
 ---
 
-## Direction
 
-Currently focused on strengthening my foundation in:
-- Data Engineering principles
-- Distributed data systems
-- Scalable backend architectures
+### 🤝 Leadership & Volunteering
+
+***Vice Head of Data Analysis (IEEE Beni Suef):** Directed a team of 10+, implementing statistical workflows and mentoring junior members in Python and data visualization.
+
+**McKinsey Forward Participant:** Applied structured problem-solving frameworks to complex business scenarios in a global collaborative environment.
+
+---
+
+### 📫 Let's Connect!
+
+* 📧 **Email:** [Mohameddahi657@gmail.com](mailto:Mohameddahi657@gmail.com) 
+
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/mohammeddahi/] 
+
+* 🌍 **Location:** Beni Suef, Egypt 
+
+* 🗣️ **Languages:** Arabic (Native), English (Proficient) 
+
+---
