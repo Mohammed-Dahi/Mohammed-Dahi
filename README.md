@@ -18,7 +18,7 @@
 
 I am a data analyst dedicated to transforming complex datasets into actionable business insights. My work spans the full analytical pipeline — from data cleaning and exploratory analysis to building interactive dashboards and data models that support decision-making.
 
-Beyond individual projects, I serve as **Vice Head of Data Analysis at IEEE Beni Suef Student Branch**, where I lead a team of 10+ members, mentor 30+ analysts in Python and data visualisation, and translate technical findings into practical recommendations across departments.
+Beyond individual projects, I serve as **Vice Head of Data Analysis at IEEE Beni Suef Student Branch**, where I lead a team of 10+ members, mentor 30+ analysts in Python and data visualization, and translate technical findings into practical recommendations across departments.
 
 ---
 
@@ -53,10 +53,10 @@ Conducted a comprehensive market analysis across **6,300+ property records**, bu
 ## Experience
 
 **Data Analysis Intern** — *Codveda Technologies* | Mar 2026 – Apr 2026
-Analysed 4+ multi-source datasets using Python and SQL; built data cleaning pipelines that reduced manual processing effort by 30%; created 3+ Power BI dashboards for stakeholder reporting and KPI tracking.
+Analyzed 4+ multi-source datasets using Python and SQL; built data cleaning pipelines that reduced manual processing effort by 30%; created 3+ Power BI dashboards for stakeholder reporting and KPI tracking.
 
 **Vice Head of Data Analysis** — *IEEE Beni Suef Student Branch* | Oct 2025 – Present
-Led a 10+ member team to deliver 5+ data projects; mentored 30+ members in Python, Pandas, and data visualisation; translated analytical findings into recommendations for 3 technical departments.
+Led a 10+ member team to deliver 5+ data projects; mentored 30+ members in Python, Pandas, and data visualization; translated analytical findings into recommendations for 3 technical departments.
 
 ---
 
